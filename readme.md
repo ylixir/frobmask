@@ -7,3 +7,6 @@ $ lua frobmask.lua 23 28 50
 frobenius number is: 233
 $ 
 ```
+
+this program absolutely requires the integer features added in lua 5.3 so
+make sure you are using a compatible interpreter

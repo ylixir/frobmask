@@ -3,6 +3,8 @@
 --terms of the Do What You Want To Public License,
 --as published by Sam Hocevar. See the COPYING file for more details.
 
+--this requires the bit twiddling features added in lua 5.3
+
 --command line arguments should be the semigroup
 
 --if the semigroup has a gcd, the program still plows on, looking
