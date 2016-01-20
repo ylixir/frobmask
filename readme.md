@@ -1,6 +1,7 @@
 # frobmask
+tl;dr use lua 5.3!
 
-just a little tool to find the frobenius number of a semigroup. if your semigroup is <23,28,50> then
+just a little tool to find the frobenius number of a numerical semigroup. if your semigroup is <23,28,50> then
 
 ```
 $ lua frobmask.lua 23 28 50
